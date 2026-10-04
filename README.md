@@ -270,5 +270,4 @@ PowerShell juga menampilkan informasi exception karena respons berupa error. Ord
 | Pesanan memeriksa buku | Membaca variabel `books` langsung | HTTP request ke Book Service |
 | Saat Book Service dihentikan | Tidak ada layanan terpisah (tidak diuji) | Order Service membalas "Book Service sedang down!" |
 
-Latensi, scale-up, dan skenario crash pada monolith **tidak diuji** pada praktikum ini.
 
